@@ -1,4 +1,4 @@
-![Snake animation](https://github.com/larissavi1/larissavi1/blob/output/github-contribution-grid-snake.svg)
+
 
 <h1 align="center">Hey 👋, I'm Larissa Vieira</h1>
 <h3 align="center">A passionate fullstack developer from Brazil</h3>
